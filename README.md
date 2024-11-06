@@ -40,10 +40,10 @@
    npm install
    ```
 
-1. Navigate to `soniclabs-arcade-bot` directory.
+1. Navigate to `Soniclabs-Bot` directory.
 1. cp `.env.example` to file `.env`
 1. Now open `.env` and config your account private key or mnemonic, and optionally you can add proxy for each account.
-1. Back to `soniclabs-arcade-bot` directory.
+1. Back to `Soniclabs-Bot` directory.
 1. In your `Command Prompt` or `Power Shell`, run the bot:
 
     ```bash
