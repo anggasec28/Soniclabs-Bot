@@ -9,7 +9,7 @@
 
    ```bash
    git clone https://github.com/web3bothub/soniclabs-arcade-bot.git
-   cd soniclabs-arcade-bot
+   cd Soniclabs-Bot
    npm install
    ```
 
@@ -36,7 +36,7 @@
 
    ```bash
    git clone https://github.com/web3bothub/soniclabs-arcade-bot.git
-   cd soniclabs-arcade-bot
+   cd Soniclabs-Bot
    npm install
    ```
 
